@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Adams</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
- <!---  - 👨‍💻 All of my projects are available at [example.com](example.com) ---> 
+ <!---  - 👨‍💻 All of my projects are available at [michaelpadams.com] ---> 
 
 - 📫 How to reach me **softwaredev.michael@gmail.com**
 
